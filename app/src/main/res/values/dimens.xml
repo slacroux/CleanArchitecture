@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- List Fragment Dimens -->
+    <dimen name="floating_button_create_margin">@dimen/dimen_8_dp</dimen>
+    <!-- Item List Fragment Dimens -->
+    <dimen name="floating_button_save_margin">@dimen/dimen_8_dp</dimen>
+
+    <!-- Dimens Values -->
+    <dimen name="dimen_8_dp">8dp</dimen>
+</resources>

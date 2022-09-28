@@ -1,7 +1,8 @@
-package com.devnotes.memorynotes
+package com.devnotes.memorynotes.presentation
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import com.devnotes.memorynotes.R
 
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
